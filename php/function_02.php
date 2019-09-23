@@ -11,5 +11,5 @@ function hello($name="**",int $a,int $b):int
 
 // 함수 호출
 $user="대남이";
-$s = hello($User,'1',"2");
+$s = hello($user,'1',"2");
 echo "합계는=".$s;
