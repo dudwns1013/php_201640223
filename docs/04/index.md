@@ -1,7 +1,7 @@
 # 수업 2019.09.18
 수업내용 정리
 
-![capture](./images/1.PNG)
+![capture](./images/1.PNG){: width="500" height="500"}
 docs 폴더 생성 index.md파일 생성 php_201640223폴더에서 터미널 실행
 git status 입력 새로생긴 docs가 빨간색으로 표현
 
