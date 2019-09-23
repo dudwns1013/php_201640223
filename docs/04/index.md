@@ -5,33 +5,33 @@
 docs 폴더 생성 index.md파일 생성 php_201640223폴더에서 터미널 실행
 git status 입력 새로생긴 docs가 빨간색으로 표현
 
-![capture](./images/2.PNG){: width="500" height="500"}
+![capture](./images/2.PNG)
 워킹트리에만 올라가있던 docs를 git add를 해줌으로서 스테이징에 올려줌
 
 git commit 과 git push 로 파일을 저장소에 올림
-![capture](./images/3.PNG){: width="500" height="500"}
+![capture](./images/3.PNG)
 docs파일을 저장소에 올림으로서 master branch/docs folder 선택 가능
 
-![capture](./images/4.PNG){: width="500" height="500"}
+![capture](./images/4.PNG)
 https://dudwns1013.github.io/php_201640223/ 를 들어가면 다음과 같이 나옴
 
-![capture](./images/5.PNG){: width="500" height="500"}
+![capture](./images/5.PNG)
 index.md 파일 수정
 
-![capture](./images/6.PNG){: width="500" height="500"}
+![capture](./images/6.PNG)
 git status로 수정된 index와 추가된 lecture들 확인
 
-![capture](./images/7.PNG){: width="500" height="500"}
+![capture](./images/7.PNG)
 add . 으로 파일 스테이징에 추가 
 
-![capture](./images/8.PNG){: width="500" height="500"}
+![capture](./images/8.PNG)
 commit과 push로 저장소에 올림
 
-![capture](./images/9.PNG){: width="500" height="500"}
+![capture](./images/9.PNG)
 01폴더와 02 폴더를 생성 후 각각 lecture 파일을 넣어준뒤 lecture_01은 index로 파일명 변경
 그리고 index 파일경로 수정
 
-![capture](./images/10.PNG){: width="500" height="500"}
+![capture](./images/10.PNG)
 add commit push 로 파일 올리기
 
 ![capture](./images/11.PNG)
