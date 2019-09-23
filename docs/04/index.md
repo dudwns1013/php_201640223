@@ -14,10 +14,10 @@ git commit 과 git push 로 파일을 저장소에 올림
 ![capture](./images/4.PNG)
 docs파일을 저장소에 올림으로서 master branch/docs folder 선택 가능
 
-![capture](./images/5.PNG)
+![capture](./images/5.PNG){: width="100"}
 https://dudwns1013.github.io/php_201640223/ 를 들어가면 다음과 같이 나옴
 
-![capture](./images/6.PNG)
+![capture](./images/6.PNG){: width="100" height="100"}
 index.md 파일 수정
 
 ![capture](./images/7.PNG)
