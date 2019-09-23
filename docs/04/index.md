@@ -1,9 +1,9 @@
 # 수업 2019.09.18
-##수업내용 정리
+## 수업내용 정리
 
 ![capture](./images/1.PNG)
-###docs 폴더 생성 index.md파일 생성 php_201640223폴더에서 터미널 실행
-###git status 입력 새로생긴 docs가 빨간색으로 표현
+### docs 폴더 생성 index.md파일 생성 php_201640223폴더에서 터미널 실행
+### git status 입력 새로생긴 docs가 빨간색으로 표현
 
 ![capture](./images/2.PNG)
 워킹트리에만 올라가있던 docs를 git add를 해줌으로서 스테이징에 올려줌
