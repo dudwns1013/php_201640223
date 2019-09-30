@@ -4,17 +4,23 @@
 ![capture](./images/1.PNG)
 ##### hello_10.php 파일 생성 후 출력하는 echo와 print사용 및 줄바꾸기 \n사용  
 
-#
+
 
 ![capture](./images/2.PNG)
 ![capture](./images/3.PNG)
 
-##### hello_11.php 파일 생성 후 다른파일을 포함 시키는 include 사용  
+##### hello_11.php 파일 생성 후 다른파일을 포함 시키는 include 사용
 
-#
+
+
+
 
 ![capture](./images/4.PNG)
 ##### php -S localhost:8000 -t ./php를 이용해 php_201640223에서 실행했지만 php 폴더에서 서버가 실행됨
+
+
+
+
 
 
 
