@@ -4,7 +4,7 @@
 ![capture](./images/1.PNG)
 ##### hello_10.php 파일 생성 후 출력하는 echo와 print사용 및 줄바꾸기 \n사용  
 
-
+  
 
 ![capture](./images/2.PNG)
 ![capture](./images/3.PNG)
