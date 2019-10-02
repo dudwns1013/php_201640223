@@ -5,11 +5,16 @@
 ##### 프로젝트 폴더와 login.php 파일 생성 후 파일에 내용을 코딩해준 후 서버를
 ##### 실행해 웹에서 결과 확인 
 
+
 ![capture](./images/2.PNG)
 ##### 세션을 쓰기위해 session_start(); 를 사용
 ##### loginup.php 파일을 만들고 username에 대숙이를 넣어줌
 ##### 웹에서 login.php 에서 변화가 없으나 loginup.php를 접속한 뒤에
 ##### 다시 login.php 에 접속하면 세션에 남은 username 값을 가져와 출력해줌
+
+
+
+
 
 ![capture](./images/3.PNG)
 ![capture](./images/4.PNG)
